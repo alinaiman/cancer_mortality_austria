@@ -1,0 +1,39 @@
+====================================================
+                     Key Outputs
+====================================================
+
+Average values across all provinces (excluding Austria):
+--------------------------------------------------------
+Average incidence:
+   - Men: 2,744
+   - Women: 2,180
+
+Average mortality:
+   - Men: 1,264
+   - Women: 1,059
+
+Regions with the highest incidence:
+-----------------------------------
+Men: Upper Austria (4,347)
+Women: Vienna (4,216)
+
+Regions with the highest mortality:
+-----------------------------------
+Men: Lower Austria (2,485)
+Women: Lower Austria (1,941)
+
+Regions with the lowest incidence:
+----------------------------------
+Men: Burgenland (950)
+Women: Burgenland (797)
+
+Regions with the lowest mortality:
+---------------------------------
+Men: Vorarlberg (436)
+Women: Vorarlberg (339)
+
+Gender comparison insights:
+---------------------------
+- In all provinces, men have higher incidence and mortality than women.
+- The difference is most pronounced in Lower Austria, Upper Austria, and Vienna.
+- Vorarlberg and Burgenland have the lowest burden for both incidence and mortality.
