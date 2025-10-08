@@ -16,19 +16,18 @@ It contains the following key variables:
 
 ## Folder structure 
 cancer_mortality_austria/
-│
-├── code/
-│ └── analysis.ipynb
-│
-├── data/
-│ ├── raw/
-│  └── Cancer_incidence.csv
-│
-├── pics/
-│ └── demographic.png
-│
+|
+├── README.md
+├── code
+│   ├── Cancer incidence.csv
+│   └── analysis.ipynb
+├── data
+│   └── raw
 ├── environment.yml
-└── README.md
+├── output
+│   └── output_report.txt
+└── pics
+    └── demographic.png.png
 
 ## Getting Started 
 The analysis can be run using the main Jupyter notebook: notebooks/analysis.ipynb
